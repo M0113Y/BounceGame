@@ -8,6 +8,17 @@ Goal: Player must hit all the blocks to win. You have three lives to do so.
 
 
 
+
+Controls
+========
+	
+	Space bar launches ball
+
+	Arrow keys move player
+
+
+
+
 Install
 =======
 
@@ -25,4 +36,4 @@ Bugs:
 
 
 
-In the future I will fix the ball collision and add more gameplay. 
+In the future I will fix the ball collision and add a score, levels, many moving blocks  
